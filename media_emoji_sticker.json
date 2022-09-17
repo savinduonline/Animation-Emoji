@@ -1,0 +1,64 @@
+{
+
+    "😀":{
+        "stickers":[
+            "data/emoji/stickers/Google Font Emoji Animation/Smile.webp"
+        ]
+    },
+
+    "😃":{
+        "stickers":[
+            "data/emoji/stickers/Google Font Emoji Animation/Smile-with-big-eyes.webp"
+        ]
+    },
+
+
+    "😄":{
+        "stickers":[
+            "data/emoji/stickers/Google Font Emoji Animation/Grin.webp"
+        ]
+    },
+
+
+    "😆":{
+        "stickers":[
+            "data/emoji/stickers/Google Font Emoji Animation/Laughing.webp"
+        ]
+    },
+
+
+    "😅":{
+        "stickers":[
+            "data/emoji/stickers/Google Font Emoji Animation/Grin-sweat.webp"
+        ]
+    },
+
+
+    "😂":{
+        "stickers":[
+            "data/emoji/stickers/Google Font Emoji Animation/Joy.webp"
+        ]
+    },
+
+
+    "🤣":{
+        "stickers":[
+            "data/emoji/stickers/Google Font Emoji Animation/Rofl.webp"
+        ]
+    },
+
+
+    "🥲":{
+        "stickers":[
+            "data/emoji/stickers/Google Font Emoji Animation/Happy-cry.webp"
+        ]
+    },
+
+
+    "☺️":{
+        "stickers":[
+            "data/emoji/stickers/Google Font Emoji Animation/Blush.webp"
+        ]
+    }
+
+}
