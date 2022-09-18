@@ -29,7 +29,10 @@
 
     "😅":{
         "stickers":[
-            "data/emoji/stickers/Google Font Emoji Animation/Grin-sweat.gif"
+            "data/emoji/stickers/Google Font Emoji Animation/Grin-sweat.gif",
+            "data/emoji/stickers/Google Font Emoji Animation/Smile.gif",
+            "data/emoji/stickers/Google Font Emoji Animation/Laughing.gif",
+            "data/emoji/stickers/Google Font Emoji Animation/Rofl.gif"
         ]
     },
 
