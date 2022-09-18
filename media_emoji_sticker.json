@@ -16,7 +16,7 @@
     "😄":{
         "stickers":[
             "data/emoji/stickers/Google Font Emoji Animation/Grin.gif",
-            "test/Kissing%20Face.png"
+            "test/test1.gif"
         ]
     },
 
@@ -31,7 +31,7 @@
     "😅":{
         "stickers":[
             "data/emoji/stickers/Google Font Emoji Animation/Smile.gif",
-            "test/Smiling%20Face.png"
+            "test/test2.gif"
         ]
     },
 
@@ -39,7 +39,7 @@
     "😂":{
         "stickers":[
             "data/emoji/stickers/Google Font Emoji Animation/Joy.gif",
-            "test/Smiling%20Face.png"
+            "test/test2.gif"
         ]
     },
 
