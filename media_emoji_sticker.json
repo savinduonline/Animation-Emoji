@@ -16,7 +16,7 @@
     "😄":{
         "stickers":[
             "data/emoji/stickers/Google Font Emoji Animation/Grin.gif",
-            "https://raw.githubusercontent.com/savinduonline/Animation-Emoji/main/test/Kissing%20Face.png"
+            "test/Kissing%20Face.png"
         ]
     },
 
@@ -31,7 +31,7 @@
     "😅":{
         "stickers":[
             "data/emoji/stickers/Google Font Emoji Animation/Smile.gif",
-            "https://raw.githubusercontent.com/savinduonline/Animation-Emoji/main/test/Smiling%20Face.png"
+            "test/Smiling%20Face.png"
         ]
     },
 
