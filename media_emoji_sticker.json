@@ -4,10 +4,6 @@
             {
                 "preview": "test/preview.gif",
                 "sticker": "test/sticker.webp"
-            },
-            {
-                "preview": "test/preview.gif",
-                "sticker": "test/sticker.webp"
             }
         ]
     },
@@ -16,7 +12,7 @@
         "stickers": [
             {
                 "preview": "test/preview2.gif",
-                "sticker": "test/512.webp"
+                "sticker": "test/bbb.webp"
             }
         ]
     }
