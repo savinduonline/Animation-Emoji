@@ -10,5 +10,15 @@
                 "sticker": "test/sticker.webp"
             }
         ]
+    },
+
+    "😭": {
+        "stickers": [
+            {
+                "preview": "test/preview2.gif",
+                "sticker": "test/sticker2.webp"
+            }
+        ]
     }
+
 }
