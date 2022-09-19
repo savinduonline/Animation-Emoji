@@ -3,11 +3,11 @@
         "stickers": [
             {
                 "preview": "test/preview.gif",
-                "sticker": "test/sticker.wepb"
+                "sticker": "test/sticker.webp"
             },
             {
                 "preview": "test/preview.gif",
-                "sticker": "test/sticker.wepb"
+                "sticker": "test/sticker.webp"
             }
         ]
     }
