@@ -1,4 +1,6 @@
 {
+
+    
     "😀": {
         "stickers": [
             {
@@ -51,6 +53,105 @@
                 "sticker": "data/emoji/stickers/Google Font Emoji Animation/Grin-sweat.webp"
             }
         ]
-    }
+    },
+
+
+
+    "😂": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Joy.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Joy.webp"
+            }
+        ]
+    },
+    "🤣": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Rofl.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Rofl.webp"
+            }
+        ]
+    },
+    "🥲": {
+        "stickers": [
+            {
+               
+            }
+        ]
+    },
+    "☺️": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "😊": {
+        "stickers": [
+            {
+               
+            }
+        ]
+    },
+    "😇": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Halo.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Halo.webp"
+            }
+        ]
+    },
+
+
+
+    "🙂": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Slightly-happy.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Slightly-happy.webp"
+            }
+        ]
+    },
+    "🙃": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Upside-down-face.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Upside-down-face.webp"
+            }
+        ]
+    },
+    "😉": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Wink.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Wink.webp"
+            }
+        ]
+    },
+    "😌": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Pensive.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Pensive.webp"
+            }
+        ]
+    },
+    "😍": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Heart-eyes.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Heart-eyes.webp"
+            }
+        ]
+    },
+    "🥰": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Heart-face.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Heart-face.webp"
+            }
+        ]
+    }    
 
 }
