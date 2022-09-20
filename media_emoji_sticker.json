@@ -1,20 +1,14 @@
 {
-    "😘": {
+    "😀": {
         "stickers": [
+            {
+                "preview": "test/preview.gif",
+                "sticker": "test/sticker.webp"
+            },
             {
                 "preview": "test/preview.gif",
                 "sticker": "test/sticker.webp"
             }
         ]
-    },
-
-    "😭": {
-        "stickers": [
-            {
-                "preview": "test/preview2.gif",
-                "sticker": "test/test333.webp"
-            }
-        ]
     }
-
 }
