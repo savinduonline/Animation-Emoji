@@ -6,5 +6,15 @@
                 "sticker": "data/emoji/stickers/Google Font Emoji Animation/Smile.webp"
             }
         ]
+    },
+
+    "😃": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Smile-with-big-eyes.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Smile-with-big-eyes.webp"
+            }
+        ]
     }
+
 }
