@@ -15,6 +15,42 @@
                 "sticker": "data/emoji/stickers/Google Font Emoji Animation/Smile-with-big-eyes.webp"
             }
         ]
+    },
+
+    "😄": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Grin.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Grin.webp"
+            }
+        ]
+    },
+
+    "😁": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Grinning.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Grinning.webp"
+            }
+        ]
+    },
+
+    "😆": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Laughing.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Laughing.webp"
+            }
+        ]
+    },
+
+    "😅": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Grin-sweat.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Grin-sweat.webp"
+            }
+        ]
     }
 
 }
