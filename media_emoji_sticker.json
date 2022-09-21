@@ -432,8 +432,121 @@
                 "sticker": "data/emoji/stickers/Google Font Emoji Animation/Sleep.webp"
             }
         ]
+    },
+
+
+    "😷": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "🤒": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "🤕": {
+        "stickers": [
+            {
+               
+            }
+        ]
+    },
+    "🤢": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "🤮": {
+        "stickers": [
+            {
+               
+            }
+        ]
+    },
+    "🤧": {
+        "stickers": [
+            {
+               
+            }
+        ]
+    },
+    "🥵": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "🥶": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "🥴": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "😵": {
+        "stickers": [
+            {
+
+            }
+        ]
+    },
+    "😵‍💫": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "🤯": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Mind-blown.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Mind-blown.webp"
+            }
+        ]
+    },
+
+
+
+    "🤠": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Cowboy.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Cowboy.webp"
+            }
+        ]
+    },
+    "🥳": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Partying-face.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Partying-face.webp"
+            }
+        ]
+    },
+    "🥸": {
+        "stickers": [
+            {
+            }
+        ]
     }
 
 
 
+    
 }
