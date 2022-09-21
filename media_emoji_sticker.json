@@ -548,6 +548,8 @@
         ]
     },
 
+
+    
     "😎": {
         "stickers": [
             {
@@ -569,8 +571,195 @@
 
             }
         ]
-    }
+    },
 
+
+
+    "😕": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Slightly-frowning.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Slightly-frowning.webp"
+            }
+        ]
+    },
+    "🫤": {
+        "stickers": [
+            {}
+        ]
+    },
+    "😟": {
+        "stickers": [
+            {}
+        ]
+    },
+    "🙁": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "☹️": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Big-frown.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Big-frown.webp"
+            }
+        ]
+    },
+    "😮": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "😯": {
+        "stickers": [
+            {
+               
+            }
+        ]
+    },
+    "😲": {
+        "stickers": [
+            {
+               
+            }
+        ]
+    },
+    "😳": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Flushed.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Flushed.webp"
+            }
+        ]
+    },
+    "🥺": {
+        "stickers": [
+            {
+               
+            }
+        ]
+    },
+    "🥹": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Holding-back-tears.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Holding-back-tears.webp"
+            }
+        ]
+    },
+    "😦": {
+        "stickers": [
+            {}
+        ]
+    },
+    "😧": {
+        "stickers": [
+            {}
+        ]
+    },
+    "😨": {
+        "stickers": [
+            {}
+        ]
+    },
+    "😰": {
+        "stickers": [
+            {}
+        ]
+    },
+    "😥": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Concerned.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Concerned.webp"
+            }
+        ]
+    },
+    "😢": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Cry.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Cry.webp"
+            }
+        ]
+    },
+    "😭": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Loudly-crying.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Loudly-crying.webp"
+            }
+        ]
+    },
+    "😱": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Holding-back-tears.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Holding-back-tears.webp"
+            }
+        ]
+    },
+    "😖": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Scrunched-mouth.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Scrunched-mouth.webp"
+            }
+        ]
+    },
+    "😣": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Scrunched-eyes.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Scrunched-eyes.webp"
+            }
+        ]
+    },
+    "😞": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Sad.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Sad.webp"
+            }
+        ]
+    },
+    "😓": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Sweat.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Sweat.webp"
+            }
+        ]
+    },
+    "😩": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Weary.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Weary.webp"
+            }
+        ]
+    },
+    "😫": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Distraught.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Distraught.webp"
+            }
+        ]
+    },
+    "🥱": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Yawn.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Yawn.webp"
+            }
+        ]
+    }
 
 
 
