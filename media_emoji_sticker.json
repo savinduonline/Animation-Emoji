@@ -290,8 +290,109 @@
                 "sticker": "data/emoji/stickers/Google Font Emoji Animation/Salute.webp"
             }
         ]
+    },
+
+
+    "🤐": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Hug-face.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Hug-face.webp"
+            }
+        ]
+    },
+    "🤨": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Raised-eyebrow.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Raised-eyebrow.webp"
+            }
+        ]
+    },
+    "😐": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Neutral-face.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Neutral-face.webp"
+            }
+        ]
+    },
+    "😑": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Expressionless.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Expressionless.webp"
+            }
+        ]
+    },
+    "😶": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Mouth-none.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Mouth-none.webp"
+            }
+        ]
+    },
+    "🫥": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "😶‍🌫️": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "😏": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Smirk.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Smirk.webp"
+            }
+        ]
+    },
+    "😒": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Unamused.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Unamused.webp"
+            }
+        ]
+    },
+    "🙄": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Rolling-eye.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Rolling-eye.webp"
+            }
+        ]
+    },
+    "😬": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Grimacing.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Grimacing.webp"
+            }
+        ]
+    },
+    "😮‍💨": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "🤥": {
+        "stickers": [
+            {
+               
+            }
+        ]
     }
-    
 
 
 
