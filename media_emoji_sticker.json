@@ -501,14 +501,16 @@
     "😵": {
         "stickers": [
             {
-
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Dizzy-face.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Dizzy-face.webp"
             }
         ]
     },
     "😵‍💫": {
         "stickers": [
             {
-                
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Dizzy-face.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Dizzy-face.webp"
             }
         ]
     },
@@ -544,9 +546,32 @@
             {
             }
         ]
+    },
+
+    "😎": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Sunglasses-face.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Sunglasses-face.webp"
+            }
+        ]
+    },
+    "🤓": {
+        "stickers": [
+            {
+                
+            }
+        ]
+    },
+    "🧐": {
+        "stickers": [
+            {
+
+            }
+        ]
     }
 
 
 
-    
+
 }
