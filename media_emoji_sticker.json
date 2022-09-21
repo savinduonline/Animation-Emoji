@@ -183,7 +183,59 @@
                 "sticker": "data/emoji/stickers/Google Font Emoji Animation/Happy-cry.webp"
             }
         ]
+    },
+
+
+    "😋": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Yum.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Yum.webp"
+            }
+        ]
+    },
+    "😛": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Stuck-out-tongue.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Stuck-out-tongue.webp"
+            }
+        ]
+    },
+    "😜": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Winky-tongue.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Winky-tongue.webp"
+            }
+        ]
+    },
+    "🤪": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Zany-face.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Zany-face.webp"
+            }
+        ]
+    },
+    "😝": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Squinting-tongue.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Squinting-tongue.webp"
+            }
+        ]
+    },
+    "🤑": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Money-face.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Money-face.webp"
+            }
+        ]
     }
     
+
+
 
 }
