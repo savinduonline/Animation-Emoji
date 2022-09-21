@@ -233,6 +233,63 @@
                 "sticker": "data/emoji/stickers/Google Font Emoji Animation/Money-face.webp"
             }
         ]
+    },
+
+
+    "🤗": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Hug-face.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Hug-face.webp"
+            }
+        ]
+    },
+    "🤭": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Smiling-eyes-with-hand-over-mouth.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Smiling-eyes-with-hand-over-mouth.webp"
+            }
+        ]
+    },
+    "🫢": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Hand-over-mouth.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Hand-over-mouth.webp"
+            }
+        ]
+    },
+    "🫣": {
+        "stickers": [
+            {
+               
+            }
+        ]
+    },
+    "🤫": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Shushing-face.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Shushing-face.webp"
+            }
+        ]
+    },
+    "🤔": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Thinking-face.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Thinking-face.webp"
+            }
+        ]
+    },
+    "🫡": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Salute.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Salute.webp"
+            }
+        ]
     }
     
 
