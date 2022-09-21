@@ -390,6 +390,48 @@
                
             }
         ]
+    },
+
+
+    "😌": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Relieved.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Relieved.webp"
+            }
+        ]
+    },
+    "😔": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Pensive.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Pensive.webp"
+            }
+        ]
+    },
+    "😪": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Sleepy.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Sleepy.webp"
+            }
+        ]
+    },
+    "🤤": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Drool.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Drool.webp"
+            }
+        ]
+    },
+    "😴": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Sleep.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Sleep.webp"
+            }
+        ]
     }
 
 
