@@ -640,7 +640,8 @@
     "🥺": {
         "stickers": [
             {
-               
+               "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Pleading.gif",
+               "sticker": "data/emoji/stickers/Google Font Emoji Animation/Pleading.webp"
             }
         ]
     },
