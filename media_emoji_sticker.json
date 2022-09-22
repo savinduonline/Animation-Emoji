@@ -796,6 +796,8 @@
     "😈": {
         "stickers": [
             {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Imp-smile.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Imp-smile.webp"
             }
         ]
     },
@@ -816,10 +818,51 @@
             {
             }
         ]
-    }
+    },
 
 
+    "💩": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Poop.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Poop.webp"
+            }
+        ]
+    },
+    "👻": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Ghost.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Ghost.webp"
+            }
+        ]
+    },
 
 
-    
+    "🙈": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/See-no-evil-monkey.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/See-no-evil-monkey.webp"
+            }
+        ]
+    },
+    "🙉": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Hear-no-evil-monkey.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Hear-no-evil-monkey.webp"
+            }
+        ]
+    },
+    "🙊": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Speak-no-evil-monkey.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Speak-no-evil-monkey.webp"
+            }
+        ]
+    }       
+
+
 }
