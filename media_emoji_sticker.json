@@ -760,8 +760,62 @@
                 "sticker": "data/emoji/stickers/Google Font Emoji Animation/Yawn.webp"
             }
         ]
+    },
+
+
+    "😤": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Scrunched-mouth.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Scrunched-mouth.webp"
+            }
+        ]
+    },
+    "😡": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Scrunched-eyes.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Scrunched-eyes.webp"
+            }
+        ]
+    },
+    "😠": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Rage.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Rage.webp"
+            }
+        ]
+    },
+    "🤬": {
+        "stickers": [
+            {   
+            }
+        ]
+    },
+    "😈": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "👿": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "💀": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "☠️": {
+        "stickers": [
+            {
+            }
+        ]
     }
-
-
 
 }
