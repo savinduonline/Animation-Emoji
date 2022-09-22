@@ -969,6 +969,169 @@
                 "sticker": "data/emoji/stickers/Google Font Emoji Animation/Bandaged-heart.webp"
             }
         ]
+    },
+    "❤️": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Red-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Red-heart.webp"
+            }
+        ]
+    },
+    "🧡": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Orange-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Orange-heart.webp"
+            }
+        ]
+    },
+    "💛": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Yellow-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Yellow-heart.webp"
+            }
+        ]
+    },
+    "💚": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Green-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Green-heart.webp"
+            }
+        ]
+    },
+    "💙": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Blue-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Blue-heart.webp"
+            }
+        ]
+    },
+    "💜": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Purple-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Purple-heart.webp"
+            }
+        ]
+    },
+    "🤎": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Brown-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Brown-heart.webp"
+            }
+        ]
+    },
+    "🖤": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Black-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Black-heart.webp"
+            }
+        ]
+    },
+    "🤍": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/White-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/White-heart.webp"
+            }
+        ]
+    },
+    "💯": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/100.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/100.webp"
+            }
+        ]
+    },
+    "💢": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "💥": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Collision.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Collision.webp"
+            }
+        ]
+    },
+    "💫": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "💦": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "💨": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "🕳️": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "💣": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "💬": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "👁️‍🗨️": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "🗨️": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "🗯️": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "💭": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "💤": {
+        "stickers": [
+            {
+            }
+        ]
     }
+
+
+    
 
 }
