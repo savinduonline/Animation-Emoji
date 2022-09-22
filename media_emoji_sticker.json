@@ -862,7 +862,113 @@
                 "sticker": "data/emoji/stickers/Google Font Emoji Animation/Speak-no-evil-monkey.webp"
             }
         ]
-    }       
+    },
+    
+    
 
+    "💋": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Kiss.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Kiss.webp"
+            }
+        ]
+    },
+    "💌": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "💘": {
+        "stickers": [
+            {
+            }
+        ]
+    },
+    "💝": {
+        "stickers": [
+            {
+               
+            }
+        ]
+    },
+    "💖": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Sparkling-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Sparkling-heart.webp"
+            }
+        ]
+    },
+    "💗": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Heart-grow.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Heart-grow.webp"
+            }
+        ]
+    },
+    "💓": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Beating-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Beating-heart.webp"
+            }
+        ]
+    },
+    "💞": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Revolving-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Revolving-heart.webp"
+            }
+        ]
+    },
+    "💕": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Two-hearts.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Two-hearts.webp"
+            }
+        ]
+    },
+    "💟": {
+        "stickers": [
+            {}
+        ]
+    },
+    "❣️": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Heart-exclamation-point.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Heart-exclamation-point.webp"
+            }
+        ]
+    },
+    "💔": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Broken-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Broken-heart.webp"
+            }
+        ]
+    },
+    "❤️‍🔥": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Fire-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Fire-heart.webp"
+            }
+        ]
+    },
+    "❤️‍🩹": {
+        "stickers": [
+            {
+                "preview": "data/emoji/stickers/Google Font Emoji Animation/preview/Bandaged-heart.gif",
+                "sticker": "data/emoji/stickers/Google Font Emoji Animation/Bandaged-heart.webp"
+            }
+        ]
+    },        
 
 }
